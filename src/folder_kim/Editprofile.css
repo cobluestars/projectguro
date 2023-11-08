@@ -1,0 +1,200 @@
+.personal-info {
+  font-weight: bold;
+  text-align: center;
+  margin: 65px;
+}
+
+.inner {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.basicTable {
+  border: 1px solid #DEE2E6;
+  margin: 24px;
+  padding: 24px;
+}
+
+.basicForm {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.basicInfo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2px;
+}
+
+#title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.dangerStar {
+  font-size: 12px;
+  color: #dc3545;
+}
+
+.mainTable {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 16px;
+  padding: 3px;
+  width: auto;
+  table-layout: auto;
+}
+
+.mainTable td {
+  border: 1px solid #dee2e6;
+  padding: 8px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+#eng {
+  font-size: 0.8em;
+}
+
+#head {
+  font-size: 14px;
+  text-align: center;
+  width: 150px;
+  height: 25px;
+}
+
+#idText {
+  border: none;
+  background-color: transparent;
+  padding: 0;
+}
+
+.bodyInput {
+  height: 25px;
+  margin-right: 8px;
+}
+
+#address-1 {
+  width: 300px;
+}
+
+#address-2 {
+  width: 300px;
+}
+
+.email {
+  width: 100px;
+}
+
+.domain {
+  margin-left: 8px;
+}
+
+.radioAll input {
+  vertical-align: middle;
+}
+
+.radio {
+  font-size: 14px;
+  margin: 5px;
+}
+
+.cancel {
+  background-color: #E3E3E3;
+  border: #BDBDBD;
+  color: #3D3B3B;
+  padding-left: 37px;
+  padding-right: 37px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 20px;
+}
+
+.custom-center {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.custom-button1 {
+  width: 85px;
+  height: 40px;
+  font-size: 16px;
+  background-color: #24282C;
+  border: none;
+  border-radius: 0;
+  font-weight: bold;
+  color: #fff;
+  margin: 2px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.custom-button1:hover {
+  background-color: #424649;
+  transition-duration: 0.2s;
+}
+
+.custom-button2 {
+  width: 85px;
+  height: 40px;
+  font-size: 16px;
+  background-color: #E3E3E3;
+  border-radius: 0;
+  font-weight: bold;
+  margin-left: 7px;
+  padding: 2px;
+  cursor: pointer;
+  text-decoration: none;
+  border: #BDBDBD;
+  color: #3D3B3B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cancel:hover {
+  background-color: #a4a4a4;
+  color: #ffffff;
+  transition-duration: 0.2s;
+}
+
+.custom-outline-button {
+  width: 130px;
+  height: 40px;
+  font-size: 16px;
+  border: 1px solid #212529;
+  background-color: #fff;
+  border-radius: 0;
+  font-weight: bold;
+  color: #212529;
+  margin: 2px;
+  cursor: pointer;
+  text-decoration: none;
+  transition-duration: 0.2s;
+  margin-left: 310px;
+}
+
+.custom-outline-button:hover {
+  background-color: #24282C;
+  color: #fff;
+}
+
+/* 제일 밑에 빈 공간 */
+.test {
+  width: 1900px;
+  height: 200px;
+}

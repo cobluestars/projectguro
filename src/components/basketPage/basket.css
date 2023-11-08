@@ -1,0 +1,59 @@
+* {
+  font-family: "Noto Sans KR";
+}
+
+table {
+  width: 100%;
+  border-top: 1px solid;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border-bottom: 1px solid #444444;
+  border-left: 1px solid #444444;
+  padding: 15px;
+  text-align: center;
+}
+
+.size {
+  padding: none;
+  background-color: red;
+  width: 150px;
+}
+
+th:first-child,
+td:first-child {
+  border-left: none;
+}
+
+th:nth-child(n + 3),
+td:nth-child(n + 3) {
+  text-align: center;
+}
+
+.cart-container {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-btn-control {
+  border: 1px solid grey;
+  background-color: white;
+  font-size: 15px;
+  padding: 5px 10px 5px 10px;
+  margin: 5px;
+}
+
+.pay-container {
+  display: flex;
+  gap: 20px;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+.pay-cell {
+  text-align: center;
+}

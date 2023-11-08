@@ -1,0 +1,239 @@
+{
+  "categories": [
+    {
+      "name": "Signature",
+      "products": [
+        {
+          "id": 1,
+          "name": "Black Lychee",
+          "price": 5000,
+          "image": "./img/Signature/Black Lychee.png"
+        },
+        {
+          "id": 2,
+          "name": "Dragon and Rose",
+          "price": 5000,
+          "image": "./img/Signature/Dragon and Rose.png"
+        },
+        {
+          "id": 3,
+          "name": "Dream Of Butterfly",
+          "price": 5000,
+          "image": "./img/Signature/Dream Of Butterfly.png"
+        },
+        {
+          "id": 4,
+          "name": "Georgia On My Mind",
+          "price": 5000,
+          "image": "./img/Signature/Georgia On My Mind.png"
+        },
+        {
+          "id": 5,
+          "name": "Mango Passionfruit",
+          "price": 5000,
+          "image": "./img/Signature/Mango Passionfruit.png"
+        },
+        {
+          "id": 6,
+          "name": "Purple Love",
+          "price": 5000,
+          "image": "./img/Signature/Purple Love.png"
+        },
+        {
+          "id": 7,
+          "name": "Rose From San Francisco",
+          "price": 5000,
+          "image": "./img/Signature/Rose From San Francisco.png"
+        }
+      ]
+    },
+    {
+      "name": "Milk Tea",
+      "products": [
+        {
+          "id": 1,
+          "name": "Brown Sugar Milk Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/Brown Sugar Milk Tea.png"
+        },
+        {
+          "id": 2,
+          "name": "Classic Thai Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/Classic Thai Tea.png"
+        },
+        {
+          "id": 3,
+          "name": "Coconut Milk Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/Coconut Milk Tea.png"
+        },
+        {
+          "id": 4,
+          "name": "Coffee Milk Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/Coffee Milk Tea.png"
+        },
+        {
+          "id": 5,
+          "name": "Honey Milk Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/Honey Milk Tea.png"
+        },
+        {
+          "id": 6,
+          "name": "House Milk Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/House Milk Tea.png"
+        },
+        {
+          "id": 7,
+          "name": "KOKEE Milk Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/KOKEE Milk Tea.png"
+        },
+        {
+          "id": 8,
+          "name": "Matcha Latte",
+          "price": 5000,
+          "image": "./img/Milk Tea/Matcha Latte.png"
+        },
+        {
+          "id": 9,
+          "name": "Oreo Milk Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/Oreo Milk Tea.png"
+        },
+        {
+          "id": 10,
+          "name": "Strawberry Milk Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/Strawberry Milk Tea.png"
+        }
+      ]
+    },
+    {
+      "name": "KOKEE Fruit Tea",
+      "products": [
+        {
+          "id": 1,
+          "name": "Green Grape Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/Green Grape Tea.png"
+        },
+        {
+          "id": 2,
+          "name": "Honey Grapefruit Black Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/Honey Grapefruit Black Tea.png"
+        },
+        {
+          "id": 3,
+          "name": "Orange Sangria",
+          "price": 5000,
+          "image": "./img/Milk Tea/Orange Sangria.png"
+        },
+        {
+          "id": 4,
+          "name": "Strawberry Virgin mojito",
+          "price": 5000,
+          "image": "./img/Milk Tea/Strawberry Virgin mojito.png"
+        }
+      ]
+    },
+    {
+      "name": "Cold Cloud",
+      "products": [
+        {
+          "id": 1,
+          "name": "Brown Sugar Cold Brew",
+          "price": 5000,
+          "image": "./img/Milk Tea/Brown Sugar Cold Brew.png"
+        },
+        {
+          "id": 2,
+          "name": "Brown Sugar Dalgonatte",
+          "price": 5000,
+          "image": "./img/Milk Tea/Brown Sugar Dalgonatte.png"
+        },
+        {
+          "id": 3,
+          "name": "Oreo C&C Brown Sugar",
+          "price": 5000,
+          "image": "./img/Milk Tea/Oreo C&C Brown Sugar.png"
+        },
+        {
+          "id": 4,
+          "name": "Sweet Cloud Cold Brew",
+          "price": 5000,
+          "image": "./img/Milk Tea/Sweet Cloud Cold Brew.png"
+        },
+        {
+          "id": 5,
+          "name": "Sweet Cloud Green Tea",
+          "price": 5000,
+          "image": "./img/Milk Tea/Sweet Cloud Green Tea.png"
+        }
+      ]
+    },
+    {
+      "name": "Ice Blended",
+      "products": [
+        {
+          "id": 1,
+          "name": "Dragonfruit",
+          "price": 5000,
+          "image": "./img/Ice Blended/Dragonfruit.png"
+        },
+        {
+          "id": 2,
+          "name": "Lychee",
+          "price": 5000,
+          "image": "./img/Ice Blended/Lychee.png"
+        },
+        {
+          "id": 3,
+          "name": "Mango",
+          "price": 5000,
+          "image": "./img/Ice Blended/Mango.png"
+        },
+        {
+          "id": 4,
+          "name": "Mango + Passionfruit",
+          "price": 5000,
+          "image": "./img/Ice Blended/Mango + Passionfruit.png"
+        },
+        {
+          "id": 5,
+          "name": "Matcha",
+          "price": 5000,
+          "image": "./img/Ice Blended/Matcha.png"
+        },
+        {
+          "id": 6,
+          "name": "Oreo",
+          "price": 5000,
+          "image": "./img/Ice Blended/Oreo.png"
+        },
+        {
+          "id": 7,
+          "name": "Pina Colada",
+          "price": 5000,
+          "image": "./img/Ice Blended/Pina Colada.png"
+        },
+        {
+          "id": 8,
+          "name": "Strawberry",
+          "price": 5000,
+          "image": "./img/Ice Blended/Strawberry.png"
+        },
+        {
+          "id": 9,
+          "name": "Taro",
+          "price": 5000,
+          "image": "./img/Ice Blended/Taro.png"
+        }
+      ]
+    }
+  ]
+}

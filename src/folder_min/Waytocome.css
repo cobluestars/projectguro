@@ -1,0 +1,42 @@
+/* Waytocome.css */
+
+/* .container {
+  width: 900px;
+  height: 700px;
+}
+
+.heading {
+  margin-top: 200px;
+  margin-left: 17px;
+  width: 140px;
+  border-bottom: 4px solid #1c5245;
+}
+
+.heading h1 {
+  font-size: 33px;
+  font-weight: 600;
+}
+
+.grouping {
+  width: 900px;
+  height: 577px;
+} */
+
+.map {
+	margin-top: 160px;
+}
+
+.text_h1{
+	font-size: 23px;
+  color: #103b31;
+	text-align: center;
+}
+
+.txte_wap {
+	color: #1c5245;
+	font-weight: bold;
+}
+
+#myMap {
+	padding-top: 50px;
+}

@@ -1,0 +1,19 @@
+/* list.css */
+
+.product-list {
+  padding: 25px 100px;
+  background-color: none;
+  margin-top: 0px;
+}
+
+.category h2 {
+  text-align: center;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 100px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}

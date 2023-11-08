@@ -1,0 +1,124 @@
+/* drink.css */
+
+* {
+  font-family: "Noto Sans KR";
+}
+
+.detail-page {
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.product-detail {
+  display: flex;
+  flex: 4;
+  padding: 25px 150px;
+  background-color: none;
+  margin-top: 70px;
+  margin-bottom: 100px;
+}
+
+.d-img {
+  width: 500px;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+}
+
+.d-img img {
+  width: 150px;
+}
+
+.detail-info {
+  width: 300px;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+.d-name {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #1c5245;
+}
+
+.d-line {
+  width: 100%;
+  border-top: 1px solid #ccc;
+  margin-top: 13px;
+  margin-bottom: 13px;
+}
+
+.detail-paypart {
+  display: flex;
+  flex-direction: column;
+}
+
+.d-amount {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.minus {
+  width: 20px;
+}
+
+.plus {
+  width: 20px;
+}
+
+.d-sum {
+  margin-top: 10px;
+}
+
+.detail_count {
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.total-info {
+  margin-bottom: 30px;
+}
+
+.t-price {
+  margin-left: 15px;
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
+/* .d-btn-btn {
+  border: 1px solid gray;
+  background-color: white;
+  font-size: 15px;
+  color: 1c5245;
+  padding: 8px 40px 8px 40px;
+} */
+
+.d-btn-btn {
+  border: 1px solid #1c5245;
+  background-color: #1c5245;
+  font-size: 15px;
+  color: white;
+  border-radius: 60px;
+  padding: 8px 40px 8px 40px;
+  cursor: pointer;
+}
+
+/* .d-btn-btn:hover {
+  color: white;
+  background-color: #1c5245;
+  padding: 8px 40px 8px 40px;
+  border: 1px solid gray;
+  font-size: 15px;
+} */
+
+.testBox {
+  height: 200px;
+}

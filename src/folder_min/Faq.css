@@ -1,0 +1,83 @@
+/* Faq.css */
+  .faqBody {
+    margin: 0 auto;
+    width: 1200px;
+    height: 650px;
+  }
+ 
+  .borderBoxStyle {
+    width: 1120px;
+    height: 93px;
+    position: relative;
+    margin: "0 auto";
+    top: 100px;
+    border-radius: 5px;
+    background: transparent;
+    border: 1px solid black;
+    padding: 30px 30px;
+    box-sizing: border-box;
+  }
+  
+  .commonStyle2 {
+    flexGrow: 0;
+    flexShrink: 0;
+    font-size: 19px;
+    font-weight: 700;
+    text-align: left;
+    color: #000;
+  }
+  
+  .ContainerCss {
+    position: relative;
+    top: 140px;
+  }
+  
+  .inputGroupStyle {
+    display: flex;
+    align-items: center;
+  }
+  
+  .buttonStyle {
+    cursor: pointer;
+    padding: 0.375rem 0.75rem;
+    color: #212529;
+    background-color: #E9ECEF;
+    border: 1px solid #CED4DA;
+    border-radius: 0.25rem;
+  }
+  
+  .inputStyle {
+    flex: 1;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #FFF;
+    border: 1px solid #CED4DA;
+    border-radius: 0.25rem;
+  }
+  
+  .tableStyle {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    border-collapse: collapse;
+  }
+  
+  .tableHeadStyle {
+    border-bottom: 2px solid #DEE2E6;
+  }
+  
+  .tableDataStyle {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #DEE2E6;
+  }
+  
+  .tdtopic {
+    text-align: center;
+  }
+
+  .tdquestion {
+    text-align: center;
+  }

@@ -1,0 +1,86 @@
+
+.state-label {
+  font-size: 18px;
+}
+
+.mypage {
+  font-weight: bold;
+  text-align: center;
+  margin: 55px;
+}
+
+.order li {
+  float: left;
+  width: 25%;
+  padding: 0 0 4px;
+  border-right: 1px dotted #c9c7ca;
+  text-align: center;
+}
+
+.order p {
+  margin: 3px;
+  padding: 0;
+}
+
+.cs {
+  height: 78px;
+  cursor: pointer;
+}
+
+.cs strong {
+  font-weight: normal;
+  font-size: 12px;
+  color: #353535;
+  display: block; /* 블록 요소로 설정하여 세로로 정렬 */
+}
+
+.shortCut {
+  width: 1200px;
+  height: 300px;
+  margin-top: 70px;
+  display: flex; /* Flex 컨테이너로 설정 */
+  justify-content: center;
+  gap: 20px;
+}
+
+.sc {
+  width: 230px;
+  height: 300px;
+  border: 1px solid #dee2e6;
+  text-align: center;
+}
+
+.customer {
+  font-size: 20px;
+  margin-top: 36px;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.customer a {
+  text-decoration: none;
+  color: #212529;
+}
+
+.sc h5 {
+  margin-top: 40px;
+}
+
+.icons {
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+.context {
+  width: 177px;
+  height: 40px;
+  margin-top: 40px;
+  margin-left: 27px;
+  font-size: 14px;
+}
+
+/* 제일 밑에 빈 공간 */
+.test {
+  width: 1900px;
+  height: 200px;
+}

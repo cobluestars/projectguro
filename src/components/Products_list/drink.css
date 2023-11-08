@@ -1,0 +1,47 @@
+/* drink.css */
+* {
+  font-family: "Noto Sans KR";
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center horizontally */
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.product_image {
+  width: 100px;
+  margin-bottom: 16px;
+}
+
+.product_image img {
+  max-width: 100%;
+  width: 100px;
+}
+
+.product_name {
+  margin-bottom: 10px;
+}
+
+.product_name span {
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 5px;
+  color: #000000;
+}
+
+.price {
+  font-size: 18px;
+  /* font-weight: bold; */
+  line-height: 5px;
+  color: #000000;
+}
+
+.unit {
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}

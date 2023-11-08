@@ -1,0 +1,47 @@
+* {
+  font-family: "Noto Sans KR";
+}
+
+.sidebar {
+  margin-top: 100px;
+}
+
+.sidebarWrapper {
+  padding: 20px;
+}
+
+.sidebarMenu {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.sidebarList {
+  margin-top: 75px;
+  display: flex;
+  justify-content: center; /* 가로 방향 중앙 정렬 */
+  align-items: center; /* 세로 방향 중앙 정렬 */
+  padding-left: 0;
+  list-style: none;
+  height: 100%; /* 컨테이너의 높이를 100%로 설정 */
+  font-size: 15px;
+  color:#1c5245;
+  font-weight: bold;
+}
+
+.sidebarListItem {
+  padding: 8px;
+  cursor: pointer;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.sidebarListItem:hover {
+  color: wheat;
+  background-color: #1c5245;
+  border-radius: 60px;
+  padding: 5px 15px 5px 15px;
+}
+
+.categoryBox {
+  border-radius: 60px;
+}

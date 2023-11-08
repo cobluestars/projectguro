@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "블랙 리치",
+        "price": 5000,
+        "image": "./img/Signature/Black Lychee.png"
+    },
+    {
+        "id": 2,
+        "name": "드래곤과 장미",
+        "price": 5000,
+        "image": "./img/Signature/Dragon and Rose.png"
+    },
+    {
+        "id": 3,
+        "name": "나비의 꿈",
+        "price": 5000,
+        "image": "./img/Signature/Dream Of Butterfly.png"
+    },
+    {
+        "id": 4,
+        "name": "조지아 온 마이 마인드",
+        "price": 5000,
+        "image": "./img/Signature/Georgia On My Mind.png"
+    },
+    {
+        "id": 5,
+        "name": "망고 패션후르츠",
+        "price": 5000,
+        "image": "./img/Signature/Mango Passionfruit.png"
+    },
+    {
+        "id": 6,
+        "name": "퍼플 러브",
+        "price": 5000,
+        "image": "./img/Signature/Purple Love.png"
+    },
+    {
+        "id": 7,
+        "name": "샌프란시스코의 장미",
+        "price": 5000,
+        "image": "./img/Signature/Rose From San Francisco.png"
+    },
+    {
+        "id": 8,
+        "name": "브라운슈가 콜드브루",
+        "price": 5000,
+        "image": "./img/Cold Cloud/Brown Sugar Cold Brew.png"
+    },
+    {
+        "id": 9,
+        "name": "브라운슈가 달고나라떼",
+        "price": 5000,
+        "image": "./img/Cold Cloud/Brown Sugar Dalgonatte.png"
+    },
+    {
+        "id": 10,
+        "name": "오레오 브라운슈가",
+        "price": 5000,
+        "image": "./img/Cold Cloud/Oreo Brown Sugar.png"
+    },
+    {
+        "id": 11,
+        "name": "솜사탕 콜드브루",
+        "price": 5000,
+        "image": "./img/Cold Cloud/Sweet Cloud Cold Brew.png"
+    },
+    {
+        "id": 12,
+        "name": "솜사탕 그린티",
+        "price": 5000,
+        "image": "./img/Cold Cloud/Sweet Cloud Green Brew.png"
+    },
+    {
+        "id": 13,
+        "name": "용과",
+        "price": 5000,
+        "image": "./img/Ice Blended/Dragonfruit.png"
+    },
+    {
+        "id": 14,
+        "name": "리치",
+        "price": 5000,
+        "image": "./img/Ice Blended/Lychee.png"
+    },
+    {
+        "id": 15,
+        "name": "망고",
+        "price": 5000,
+        "image": "./img/Ice Blended/Mango.png"
+    },
+    {
+        "id": 16,
+        "name": "아이스망고 패션후르츠",
+        "price": 5000,
+        "image": "./img/Ice Blended/Ice Mango Passionfruit.png"
+    },
+    {
+        "id": 17,
+        "name": "말차",
+        "price": 5000,
+        "image": "./img/Ice Blended/Matcha.png"
+    },
+    {
+        "id": 18,
+        "name": "오레오",
+        "price": 5000,
+        "image": "./img/Ice Blended/Oreo.png"
+    },
+    {
+        "id": 19,
+        "name": "피나콜라다",
+        "price": 5000,
+        "image": "./img/Ice Blended/Pina Colada.png"
+    },
+    {
+        "id": 20,
+        "name": "스트로베리",
+        "price": 5000,
+        "image": "./img/Ice Blended/Strawberry.png"
+    },
+    {
+        "id": 21,
+        "name": "타로",
+        "price": 5000,
+        "image": "./img/Ice Blended/Taro.png"
+    },
+    {
+        "id": 22,
+        "name": "청포도 차",
+        "price": 5000,
+        "image": "./img/Fruit Tea/Green Grape Tea.png"
+    },
+    {
+        "id": 23,
+        "name": "허니 자몽 블랙티",
+        "price": 5000,
+        "image": "./img/Fruit Tea/Honey Grapefruit Black Tea.png"
+    },
+    {
+        "id": 24,
+        "name": "오렌지 상그리아",
+        "price": 5000,
+        "image": "./img/Fruit Tea/Orange Sangria.png"
+    },
+    {
+        "id": 25,
+        "name": "스트로베리 버진 모히토",
+        "price": 5000,
+        "image": "./img/Fruit Tea/Strawberry Virgin mojito.png"
+    },
+    {
+        "id": 26,
+        "name": "브라운슈가 밀크티",
+        "price": 5000,
+        "image": "./img/Milk Tea/Brown Sugar Milk Tea.png"
+    },
+    {
+        "id": 27,
+        "name": "클래식 차이티",
+        "price": 5000,
+        "image": "./img/Milk Tea/Classic Thai Tea.png"
+    },
+    {
+        "id": 28,
+        "name": "코코넛 밀크티",
+        "price": 5000,
+        "image": "./img/Milk Tea/Coconut Milk Tea.png"
+    },
+    {
+        "id": 29,
+        "name": "커피 밀크티",
+        "price": 5000,
+        "image": "./img/Milk Tea/Coffee Milk Tea.png"
+    },
+    {
+        "id": 30,
+        "name": "허니 밀크티",
+        "price": 5000,
+        "image": "./img/Milk Tea/Honey Milk Tea.png"
+    },
+    {
+        "id": 31,
+        "name": "하우스 밀크티",
+        "price": 5000,
+        "image": "./img/Milk Tea/House Milk Tea.png"
+    },
+    {
+        "id": 32,
+        "name": "코키 밀크티",
+        "price": 5000,
+        "image": "./img/Milk Tea/KOKEE Milk Tea.png"
+    },
+    {
+        "id": 33,
+        "name": "말차 라떼",
+        "price": 5000,
+        "image": "./img/Milk Tea/Matcha Latte.png"
+    },
+    {
+        "id": 34,
+        "name": "오레오 밀크티",
+        "price": 5000,
+        "image": "./img/Milk Tea/Oreo Milk Tea.png"
+    },
+    {
+        "id": 35,
+        "name": "스트로베리 밀크티",
+        "price": 5000,
+        "image": "./img/Milk Tea/Strawberry Milk Tea.png"
+    }
+]

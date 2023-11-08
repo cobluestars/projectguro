@@ -1,0 +1,211 @@
+
+.right{
+	float: right;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.joinForm{
+	width: 1200px;
+    margin: 0 auto;
+	padding: 20px;
+	z-index: 99;
+	position: relative;
+}
+
+.joinForm h2{
+	padding:5px 0;
+	margin-bottom: 15px;
+}
+
+#frm{
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#frm tr{
+	height: 60px;
+	border-bottom: 1px solid #ccc;
+}
+
+#frm tr input[type="checkbox"]{
+	width: 15px;
+	height: 15px;
+}
+
+#frm tr input[type="radio"]{
+	width: 15px;
+	height: 15px;
+}
+
+
+#frm tr input{
+	height: 38px;
+	width: 240px;
+	margin-right: 10px;
+	padding-left: 10px;
+}
+
+#frm tr td select{
+	width: 90px;
+	height: 35px;
+	margin-right: 10px;
+}
+
+
+
+.frm_title{
+	background: #fdfdfd;
+}
+
+
+
+input[name="email1"]{
+	width: 188px !important;
+}
+input[name="email2"]{
+	width: 188px !important;
+	margin-left: 10px;
+
+}
+
+input[name="user_phone1"]{
+	width: 150px !important;
+}
+input[name="user_phone2"]{
+	width: 150px !important;;
+}
+
+.line{
+	border-bottom: 0 !important;
+}
+
+.frm_h3{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.frm_agree{
+	display: flex;
+	background: #fcfcfc;
+}
+
+.frm_agree > div:nth-child(1){
+	width: 60%;
+	padding: 20px;
+}
+
+.frm_agree > div:nth-child(2){
+	width: 40%;
+	padding: 20px;
+}
+
+.frm_agree > div > label{
+	margin-bottom: 10px;
+	display: block;
+}
+
+.frm_agree > div > textarea{
+	padding: 20px;
+}
+
+.dflex span{
+	margin-right: 10px;
+}
+
+.frm_agree2 span{
+	margin-right: 10px;
+}
+
+.frm_agree3{
+	background: #fcfcfc;
+}
+.frm_agree3 > div{
+	padding: 20px;
+}
+.frm_agree3 > div > label{
+	margin-bottom: 10px;
+	display: block;
+}
+.frm_agree3 div textarea{
+	padding: 15px;
+}
+
+.frm_agree3 div div{
+	display: flex;
+	align-items: center;
+}
+
+
+.after{
+	position: relative;
+}
+.after::after{
+	display: block;
+	content: "*";
+	clear: both;
+	position: absolute;
+	top: 3px;
+	right: -10px;
+	color: blue;
+	font-weight: bold;
+}
+
+.before{
+	position: relative;
+}
+.before::after{
+	display: block;
+	content: "*";
+	clear: both;
+	position: absolute;
+	top: 3px;
+	left: -10px;
+	color: blue;
+	font-weight: bold;
+}
+
+
+.bg-gray{
+	background: #fcfcfc;
+	padding: 30px 20px;
+	display: flex;
+	align-items: center;
+}
+
+.be-0{
+	border-bottom: 0 !important;
+}
+
+.ps-10{
+	padding-left: 10px;
+}
+
+.bs-1{
+	border-top: 1px solid #ccc;
+}
+
+.dflex{
+	display: flex;
+	align-items: center;
+}
+
+.dflex2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 150px;
+}
+
+.dflex2 button{
+	padding: 10px 25px;
+	background: #333;
+	color: #fff;
+	font-size: 16px;
+}
+
+input {
+	accent-color: #1c5245;
+}

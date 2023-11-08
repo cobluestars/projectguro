@@ -1,0 +1,128 @@
+.titleFranchise {
+  margin-top: 160px;
+  text-align: center;
+  font-size: 23px;
+  font-weight: 600;
+  transition: transform 0.8s, opacity 0.8s;
+  opacity: 1;
+  color: #103b31;
+}
+
+.introduction {
+  margin-top: 35px;
+  font-size: 18px;
+  text-align: center;
+  font-weight: 500;
+}
+
+.emailContact {
+  font-weight: bold;
+  font-size: 20px;
+  color: #1c5245;
+}
+
+.introduction p {
+  margin: 4px;
+}
+
+.formFranchise {
+  width: 100%;
+  /* border: 1px solid #9ed2be; */
+  background-color: #faf9f9;
+  margin-top: 50px;
+  padding: 100px 100px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* 가운데 정렬로 변경 */
+  gap: 16px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: row; /* 가로 방향으로 배치 */
+  align-items: center; /* 수직 가운데 정렬 */
+  width: 700px;
+}
+
+.f-label {
+  width: 100px;
+  font-size: 18px;
+  padding-bottom: 21px;
+  letter-spacing: -0.5px;
+  text-align: left;
+}
+
+.f-input::placeholder {
+  padding: 10px;
+  font-size: 17px;
+}
+
+.fc-input::placeholder {
+  position: relative;
+  padding: 10px;
+  font-size: 17px;
+  top: -30px; /* 원하는 위치로 조정 */
+  opacity: 1; /* 투명도 설정 */
+}
+
+.f-input {
+  flex: 1;
+  height: 50px;
+  padding: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #e4e4e4;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.f-input:focus {
+  border-color: rgb(158, 210, 190);
+  border-width: 2px;
+  outline: none;
+}
+
+.fc-input {
+  flex: 1;
+  width: 800px; /* 원하는 너비로 조정 */
+  height: 130px;
+  padding: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #e4e4e4;
+  border-radius: 5px;
+  font-size: 16px;
+  position: relative;
+}
+
+.fc-input:focus {
+  border-color: rgb(158, 210, 190);
+  border-width: 2px;
+  outline: none;
+}
+
+button[type="submit"] {
+  width: 700px;
+  height: 50px;
+  background-color: #1c5245;
+  color: #fff;
+  margin-top: 50px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 600;
+  position: relative;
+  border: 1px solid #ddd;
+  border-radius: 20px 0 20px 0;
+}
+
+button[type="submit"]:hover {
+  background-color: #fff;
+  color: #333;
+  transition: 0.5s;
+}
+
+/* .submitbtn {
+  margin-top: 20px;
+} */
