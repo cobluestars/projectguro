@@ -1,8 +1,11 @@
 [![Video Label](http://img.youtube.com/vi/haAsDLWIMw4/0.jpg)](https://youtu.be/haAsDLWIMw4)
-<br />
-# 웹사이트 시연 영상입니다. 클릭할 시, 유튜브에서 관람하실 수 있습니다.
 
 <br />
+
+## 웹사이트 시연 영상입니다. 클릭할 시, 유튜브에서 관람하실 수 있습니다.
+
+<br />
+
 ## 아래는 시연 방법입니다.
 
 1. 인텔리제이를 켜서 폴더 열기 - 백엔드코드_sql파일 폴더로 가서 guro-spring 폴더를 연다.
